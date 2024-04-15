@@ -5,7 +5,6 @@
 
 Skills: REACT / JS / HTML / CSS / NODEJS / TYPESCRIPT / C# / UNITY / COCOS CREATOR
 
-- 🔭 I’m currently working on this page. 
 
 
 
